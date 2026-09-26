@@ -1,5 +1,12 @@
 # DSA Practice Vault 🧠
 
+![Python](https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+![Made with](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/your-username/your-repo-name?style=flat-square)
+![Repo Size](https://img.shields.io/github/repo-size/your-username/your-repo-name?style=flat-square)
+![Stars](https://img.shields.io/github/stars/your-username/your-repo-name?style=flat-square)
+
 A structured collection of story-based Data Structures & Algorithms problems, solved and organized by topic — built for consistent, focused interview preparation.
 
 Each problem includes a real-world narrative, clearly defined input/output formats, edge-case-aware test cases, and a clean, working solution.
