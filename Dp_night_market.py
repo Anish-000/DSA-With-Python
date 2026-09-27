@@ -64,3 +64,35 @@ Input:
 Output: 4
 
 """
+
+n = int(input())
+arr = list(map(int, input().split()))
+
+if n == 1:
+    print(arr[0])
+
+else :
+   dp1 = [0] * (n - 1)
+   dp2 = [0] * (n - 1)
+
+   sub1 = arr[0 : n-1]
+   sub2 = arr[1 : n]
+
+   if len(sub1) == 1:
+      dp1[0] = sub1[0]
+   else:
+      dp1[0] = sub1[0]
+      dp1[1] = max(sub1[0], sub1[1])
+      for i in range(2, len(sub1)):
+         dp1[i] = max(dp1[i - 1], sub1[i] + dp1[i - 2])
+
+   if len(sub2) == 1:
+      dp2[0] = sub2[0]
+
+   else:
+      dp2[0] = sub2[0]
+      dp2[1] = max(sub2[0], sub2[1])
+      for j in range(2, len(sub2)):
+         dp2[j] = max(dp2[j - 1], sub2[j] + dp2[j - 2])
+
+   print(max(dp1[n - 2], dp2[n - 2]))   
