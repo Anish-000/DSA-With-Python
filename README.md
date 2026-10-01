@@ -31,8 +31,8 @@ This repo documents my daily DSA practice journey. Instead of solving problems i
 | 🔡 Dictionary / HashMap | ✅ Active | Frequency counting, grouping, prefix-sum lookups |
 | 📈 Dynamic Programming | ✅ Active | Optimal substructure problems — linear & circular variants |
 | 🎯 Greedy Algorithms | ✅ Active | Locally-optimal strategies — sorting-based approaches |
-| 🪟 Sliding Window | 🔜 Planned | Fixed and variable-size window problems |
-| 👉 Two Pointers | 🔜 Planned | Array/string traversal optimization |
+| 🪟 Sliding Window | ✅ Active | Fixed and variable-size window problems |
+| 👉 Two Pointers | ✅ Active | Array/string traversal optimization |
 | 🌲 Trees & Graphs | 🔜 Planned | Traversal, search, and graph-based problems |
 | 🔗 Linked Lists | 🔜 Planned | Pointer manipulation problems |
 | 📚 Stacks & Queues | 🔜 Planned | LIFO/FIFO based problem patterns |
