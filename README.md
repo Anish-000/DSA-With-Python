@@ -67,7 +67,7 @@ This repository serves as:
 ## 📈 Progress Tracking
 
 - **Problems Solved:** *(update this count as you go)*
-- **Topics Completed:** 3 / 8
+- **Topics Completed:** 5 / 8
 - **Practice Started:** September 2026
 
 ---
